@@ -20,8 +20,6 @@ This serverless template provides everything you need to get started with your K
 * Test Specification and Mocking Framework
 * Lightweight Kotlin logging library
 * Updated shadowJar task to run tests on build
-* Serverless config files for each environment
-* Idiomatic kotlin custom lambda request handler
 
 ## Getting Started
 
