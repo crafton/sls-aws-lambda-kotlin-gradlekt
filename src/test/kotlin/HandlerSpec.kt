@@ -8,7 +8,7 @@ import kotlin.test.assertEquals
 object HandlerSpec : Spek({
     Feature("A custom lambda event handler") {
 
-        Scenario("The handler with a string argument") {
+        Scenario("The handler with a MyEvent input argument") {
             lateinit var handlerOutput: String
             val input = MyEvent(
                 id = "my-event-id",
