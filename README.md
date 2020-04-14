@@ -2,17 +2,6 @@
 
 A Serverless Framework template for AWS Lambda using Kotlin and the Gradle Kotlin DSL.
 
-## Table of Contents
-
-- [Overview](#markdown-header-overview)
-- [Getting Started](#markdown-header-getting-started)
-    - [Prerequisites](#markdown-header-prerequisites)
-    - [Installation](#markdown-header-installation)
-- [Built With](#markdown-header-built-with)
-- [Issue Tracking](#markdown-header-issue-tracking)
-    - [Recommended Reading](#markdown-header-recommended-reading)
-- [Acknowledgments](#markdown-header-acknowledgments)
-
 ## Overview
 
 This serverless template provides everything you need to get started with your Kotlin-based AWS Lambda. Features include:
@@ -47,4 +36,4 @@ To install the template `serverless create --template-url https://github.com/cra
 
 ## Acknowledgments
 
-* Inspired by the Serverless Framework [AWS Kotlin JVM Template](https://github.com/serverless/serverless/tree/master/lib/plugins/create/templates/aws-kotlin-jvm-gradle) template
+* Inspired by the Serverless Framework [AWS Kotlin JVM Template](https://github.com/serverless/serverless/tree/master/lib/plugins/create/templates/aws-kotlin-jvm-gradle)
